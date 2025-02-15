@@ -57,7 +57,7 @@ public class AccountHeadController {
     }
 
     /**
-     * 新增财务主表及财务子表信息
+     * 新增财务主表及财务子表信息2
      * @param body
      * @param request
      * @return
